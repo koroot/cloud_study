@@ -54,7 +54,7 @@
 
 ### 시간과 장소
 
-- 시간 : 매주 수요일 19:30 ~ 21:30 (2019.07 ~ )
+- 시간 : 매주 화요일 19:30 ~ 21:30 (2019.07 ~ )
 - 장소 : 사당역 하비웍스[사당역 범주 빌딩]  (변경 시 사전 공유)
 
 ### 연락처
@@ -144,3 +144,6 @@
   - [Terraform(Golang)](https://en.wikipedia.org/wiki/Terraform_(software))
   - [Ansible(Python)](https://en.wikipedia.org/wiki/Ansible_(software))
   - [Book(Hard Copy): Infrastructure as code (O'Reilly)](http://shop.oreilly.com/product/0636920039297.do)
+
+### Git
+  - [Pro Git book](https://git-scm.com/book/ko/v2)
